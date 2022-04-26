@@ -1,0 +1,17 @@
+*,
+*:hover,
+*:focus {
+    box-sizing: border-box;
+}
+.list {
+    list-style: none;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ava {
+    border-radius: 50%;
+}
